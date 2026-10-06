@@ -10,7 +10,7 @@ I build practical machine-learning systems and data-driven software, with intere
 - [HMM Bioinformatics](https://github.com/ashhmosshi19/hmm-bioinformatics) — sequence models for gene finding and periodicity.
 - [Vietnamese Video Retrieval](https://github.com/ashhmosshi19/aic-vietnamese-video-retrieval) — BM25 and hybrid evidence retrieval for news video.
 - [BiGRU-CRF NER](https://github.com/ashhmosshi19/ner-bi-gru-crf) — character-aware neural sequence tagging.
-- [SaigonBus DB](https://github.com/ashhmosshi19/DTBminiproject-HCMIU-GROUP09) — PHP/MySQL bus-management coursework project.
+- [SaigonBus DB](https://github.com/ashhmosshi19/saigonbus-db-app) — PHP/MySQL bus-management coursework project.
 
 ## Current toolkit
 
