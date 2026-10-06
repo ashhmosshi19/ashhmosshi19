@@ -1,6 +1,6 @@
-# Hi, I'm Thuy 👋
+# Hi, I'm Chuoi Thuy (or Ash) 👋
 
-I build practical machine-learning systems and data-driven software, with interests spanning computer vision, multimodal learning, NLP, information retrieval, and statistical modeling.
+I enjoy exploring how ideas from statistics, probability, optimization, and mathematics can help us understand data and build intelligent systems. A saying that left an impression to me is “All models are wrong, but some are useful.” by George E. P. Box. 
 
 ## Featured work
 
@@ -12,8 +12,3 @@ I build practical machine-learning systems and data-driven software, with intere
 - [BiGRU-CRF NER](https://github.com/ashhmosshi19/ner-bi-gru-crf) — character-aware neural sequence tagging.
 - [SaigonBus DB](https://github.com/ashhmosshi19/saigonbus-db-app) — PHP/MySQL bus-management coursework project.
 
-## Current toolkit
-
-Python · PyTorch · scikit-learn · Hugging Face · pandas · SQL/MySQL · PHP · Jupyter
-
-Most repositories intentionally omit private datasets, model checkpoints, credentials, and institution/server-specific files.
